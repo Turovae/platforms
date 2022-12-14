@@ -1,1 +1,1 @@
-# plaatforms
+# platforms
